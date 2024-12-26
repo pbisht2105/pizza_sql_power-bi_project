@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyzes pizza sales data to calculate key performance indicators (KPIs) and derive business insights. The calculations for all KPIs and metrics (like Total Revenue, Average Order Value, Sales by Category, etc.) were first performed using SQL queries in PostgreSQL. These same calculations were then replicated and validated within Power BI to ensure correctness and visualize trends.
+This project analyzes pizza sales data to calculate key performance indicators (KPIs) and derive business insights. The calculations for all KPIs and metrics (like Total Revenue, Average Order Value, Sales by Category, etc.) were first performed using **SQL queries** in **PostgreSQL**. These same calculations were then replicated and validated within Power BI to ensure correctness and visualize trends.
 
 The SQL scripts provide the raw data aggregation and calculations, while Power BI is used to create interactive dashboards that visualize these metrics and provide deeper insights into trends, sales performance, and customer behavior.
 
