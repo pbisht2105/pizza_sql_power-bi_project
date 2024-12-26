@@ -47,15 +47,15 @@ This data is stored in a **PostgreSQL** database, and the analysis is conducted 
 9. **Bottom 5 Worst-Sellers**: Which 5 pizzas are the worst-sellers by revenue, quantity sold, and number of orders?
 
 ### KPIs Generated:
-- **Total Revenue**
-- **Average Order Value**
-- **Total Pizzas Sold**
-- **Total Orders**
-- **Percentage of Sales by Category**
-- **Percentage of Sales by Size**
-- **Top 5 Best-Sellers**
-- **Bottom 5 Worst-Sellers**
-- **Sales Trends (Daily/Monthly)**
+- Total Revenue
+- Average Order Value
+- Total Pizzas Sold
+- Total Orders
+- Percentage of Sales by Category
+- Percentage of Sales by Size
+- Top 5 Best-Sellers
+- Bottom 5 Worst-Sellers
+- Sales Trends (Daily/Monthly)
 
 ---
 
