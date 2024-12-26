@@ -1,4 +1,5 @@
 # Pizza Sales Analysis and KPI Dashboard
+![Pizza Project cover](https://github.com/pbisht2105/pizza_sql_power-bi_project/blob/main/Pizza%20Dashboard%20cover%20image.png)
 
 ## Table of Contents
 - [What is this project?](#what-is-this-project)
