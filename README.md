@@ -11,7 +11,7 @@ This project is focused on analyzing pizza sales data to compute key performance
 The data for this project is sourced from the Kaggle dataset:
 - **Dataset Link:** [Pizza Dataset](https://www.kaggle.com/datasets/nextmillionaire/pizza-sales-dataset)
 
-The dataset used in this project consists of **[pizza sales transactions]** from a pizzeria. Each record in the dataset represents an individual pizza order, and it includes the following fields:
+The dataset used in this project consists of **pizza sales transactions** from a pizzeria. Each record in the dataset represents an individual pizza order, and it includes the following fields:
 
 - `order_id`: Unique identifier for each order.
 - `order_date`: The date and time when the order was placed.
