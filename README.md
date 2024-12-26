@@ -1,16 +1,14 @@
 # Pizza Sales Analysis and KPI Dashboard
 
 # Table of Contents
-
-1. [Pizza Sales Analysis and KPI Dashboard](#pizza-sales-analysis-and-kpi-dashboard)
-2. [What is this project?](#what-is-this-project)
-3. [Data Set Used](#data-set-used)
-4. [Questions, KPIs, or Business Problems](#questions-kpis-or-business-problems)
-5. [Process](#process)
-6. [Dashboard](#dashboard)
-7. [Final Conclusion](#final-conclusion)
+1. [What is this project?](#what-is-this-project)
+2. [Data Set Used](#data-set-used)
+3. [Questions, KPIs, or Business Problems](#questions-kpis-or-business-problems)
+4. [Process](#process)
+5. [Dashboard](#dashboard)
+6. [Final Conclusion](#final-conclusion)
    - [Recommendations for Businesses](#recommendations-for-businesses)
-8. [SQL Queries](#sql-queries)
+7. [SQL Queries](#sql-queries)
 
 ## What is this project?
 
