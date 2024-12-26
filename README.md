@@ -5,7 +5,7 @@
 - [Data Set Used](#data-set-used)
 - [Questions, KPIs, or Business Problems](#questions-kpis-or-business-problems)
 - [Process](#process)
-- [Dashboard](#dashboard)
+- [Power BI Dashboard](#dashboard)
 - [Final Conclusion](#final-conclusion)
 - [SQL Queries](#sql-queries)
 
