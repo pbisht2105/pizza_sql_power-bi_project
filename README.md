@@ -253,3 +253,9 @@ FROM pizza
 GROUP BY pizza_name
 ORDER BY 2 ASC
 LIMIT 5;
+
+## Author
+
+This project was created and maintained by [Pankaj Singh Bisht](https://github.com/pbisht2105).
+
+You can contact me at: [pbisht2105@gmail.com](mailto:pbisht2105@gmail.com).
