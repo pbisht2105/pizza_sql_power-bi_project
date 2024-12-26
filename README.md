@@ -1,4 +1,5 @@
 # Pizza Sales Analysis and KPI Dashboard
+![Dashboard](https://github.com/pbisht2105/pizza_sql_power-bi_project/blob/main/Pizza%20Sales%20Dashboard%20Home.png)
 
 ## What is this project?
 
@@ -7,8 +8,10 @@ This project is focused on analyzing pizza sales data to compute key performance
 ---
 
 ## Data Set Used
+The data for this project is sourced from the Kaggle dataset:
+- **Dataset Link:** [Movies Dataset](https://www.kaggle.com/datasets/nextmillionaire/pizza-sales-dataset)
 
-The dataset used in this project consists of **[pizza sales transactions]([url](https://www.kaggle.com/datasets/nextmillionaire/pizza-sales-dataset))** from a pizzeria. Each record in the dataset represents an individual pizza order, and it includes the following fields:
+The dataset used in this project consists of **[pizza sales transactions]** from a pizzeria. Each record in the dataset represents an individual pizza order, and it includes the following fields:
 
 - `order_id`: Unique identifier for each order.
 - `order_date`: The date and time when the order was placed.
@@ -88,8 +91,9 @@ This data is stored in a **PostgreSQL** database, and the analysis is conducted 
 
 Here is a screenshot of the Power BI dashboard showing various visualizations related to pizza sales:
 
-![Power BI Dashboard Screenshot](https://example.com/powerbi-dashboard.png)  
-*(Replace the above URL with the actual link to your dashboard image)*
+![Power BI Dashboard Screenshot](https://github.com/pbisht2105/pizza_sql_power-bi_project/blob/main/Pizza%20Sales%20Dashboard%20Home.png) 
+![Power BI Dashboard Page2](https://github.com/pbisht2105/pizza_sql_power-bi_project/blob/main/Pizza%20Sales%20Dashboard%20Page2.png)  
+
 
 ### Key Features of the Dashboard:
 - **Total Revenue Over Time**: A line chart showing revenue trends by day/month.
