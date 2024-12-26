@@ -1,5 +1,16 @@
 # Pizza Sales Analysis and KPI Dashboard
-![Dashboard](https://github.com/pbisht2105/pizza_sql_power-bi_project/blob/main/Pizza%20Sales%20Dashboard%20Home.png)
+
+# Table of Contents
+
+1. [Pizza Sales Analysis and KPI Dashboard](#pizza-sales-analysis-and-kpi-dashboard)
+2. [What is this project?](#what-is-this-project)
+3. [Data Set Used](#data-set-used)
+4. [Questions, KPIs, or Business Problems](#questions-kpis-or-business-problems)
+5. [Process](#process)
+6. [Dashboard](#dashboard)
+7. [Final Conclusion](#final-conclusion)
+   - [Recommendations for Businesses](#recommendations-for-businesses)
+8. [SQL Queries](#sql-queries)
 
 ## What is this project?
 
