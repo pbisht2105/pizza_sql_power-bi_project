@@ -154,7 +154,7 @@ FROM pizza
 GROUP BY pizza_name
 ORDER BY 2 ASC
 LIMIT 5;
-</details> ```
+ ```</details>
 
 
 ## Questions, KPIs, or Business Problems
